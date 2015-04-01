@@ -3,7 +3,6 @@ main: com.gabrielsimmer.swearjar.Main
 version: 1.0
 author: Gabriel Simmer
 depend: [Vault]
-loadbefore: [Vault]
 commands:
    swear:
       description: Help for SwearJar.
